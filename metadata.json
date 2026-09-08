@@ -1,0 +1,6 @@
+{
+  "name": "Simulasi Alokasi Uang Saku 50/30/20",
+  "description": "Aplikasi Simulasi Alokasi Uang Saku cerdas metode 50/30/20 dengan slider normalisasi otomatis, donat chart interaktif, proyeksi investasi bunga majemuk, dan brankas lokal multi-user.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
